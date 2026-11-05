@@ -1,2 +1,2 @@
 # IFPB
-This repository will be dedicated to my activities on my college
+This repository will be dedicated to my college activities.
